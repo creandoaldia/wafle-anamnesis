@@ -1,0 +1,30 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "example-server": {
+      "enabled": true,
+      "type": "local",
+      "command": [
+        "powershell", "-NoLogo", "-NoProfile", "-File",
+        "path/to/wafle-anamnesis/src/mcp-launcher.ps1",
+        "-ProcessName", "example-server",
+        "-Command", "example-server"
+      ]
+    },
+    "engram": {
+      "enabled": true,
+      "type": "local",
+      "command": [
+        "path/to/engram.exe",
+        "mcp",
+        "--tools=agent",
+        "--project",
+        "your-project"
+      ],
+      "env": {
+        "ENGRAM_CLOUD_SERVER": "http://your-cloud-server:18080",
+        "ENGRAM_CLOUD_AUTOSYNC": "1"
+      }
+    }
+  }
+}
