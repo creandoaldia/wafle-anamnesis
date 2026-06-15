@@ -156,8 +156,12 @@ Errors echo across sessions. The system doesn't forget. What you fixed yesterday
 
 <video src="assets/wafle-anamnesis.mp4" controls width="100%"></video>
 
-*Autonomous memory pipeline - animated explainer*
+*Watch the explainer video (40s) showing the full pipeline with benchmarks and knowledge graph.*
+
+![Knowledge Graph](assets/captura_anamnesis.png)
+
+*Knowledge graph: 42 bugfixes organized across 7 topic clusters, auto-saved and ready for on-demand search.*
 
 ## License
 
-MIT
+MIT - See [LICENSE](LICENSE) file for details.
