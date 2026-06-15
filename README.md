@@ -152,11 +152,11 @@ wafle-anamnesis/
 Errors echo across sessions. The system doesn't forget. What you fixed yesterday is known today — not because a human remembered, but because the machine persisted it. The echo carries knowledge forward.
 
 
-## Screenshot
+## Demo
 
-![wafle-anamnesis](assets/captura_anamnesis.png)
+<video src="assets/wafle-anamnesis.mp4" controls width="100%"></video>
 
-*Autonomous memory pipeline in action*
+*Autonomous memory pipeline - animated explainer*
 
 ## License
 
