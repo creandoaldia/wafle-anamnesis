@@ -8,7 +8,7 @@
  ╰──╯╰──╯  ╰─╯  ╰─╯ ╰─╯     ╰──────╯╰──────╯
 ```
 
-<video src="https://raw.githubusercontent.com/creandoaldia/wafle-anamnesis/main/assets/wafle-anamnesis.mp4" controls width="100%"></video>
+<video src="https://github.com/creandoaldia/wafle-anamnesis/raw/main/assets/wafle-anamnesis.mp4" controls width="100%"></video>
 
 *Explainer video (40s): the full autonomous memory pipeline with benchmarks and knowledge graph.*
 
