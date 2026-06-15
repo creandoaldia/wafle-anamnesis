@@ -1,11 +1,13 @@
-﻿
+
 ```
-██    ██  █████  ███████ ██     ██████
-██    ██ ██   ██ ██      ██     ██   ██
-██ ██ ██ ███████ █████   ██     ██████
-████  ██ ██   ██ ██      ██     ██   ██
- ██   ██ ██   ██ ██      ██████ ██████
+﻿██╮    ██╮  █████╮  ███████╮██╮     ███████╮
+██│    ██│ ██╭──██╮ ██╭────╯██│     ██╭────╯
+██│ █╮ ██│ ███████│ █████╮  ██│     █████╮  
+██│███╮██│ ██╭──██│ ██╭──╯  ██│     ██╭──╯  
+╰███╭███╭╯ ██│  ██│ ██│     ███████╮███████╮
+ ╰──╯╰──╯  ╰─╯  ╰─╯ ╰─╯     ╰──────╯╰──────╯
 ```
+
 
 # wafle-anamnesis
 
@@ -148,6 +150,13 @@ wafle-anamnesis/
 ## Why "Echo"?
 
 Errors echo across sessions. The system doesn't forget. What you fixed yesterday is known today — not because a human remembered, but because the machine persisted it. The echo carries knowledge forward.
+
+
+## Screenshot
+
+![wafle-anamnesis](assets/captura_anamnesis.png)
+
+*Autonomous memory pipeline in action*
 
 ## License
 
