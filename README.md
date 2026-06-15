@@ -8,6 +8,9 @@
  ╰──╯╰──╯  ╰─╯  ╰─╯ ╰─╯     ╰──────╯╰──────╯
 ```
 
+<video src="https://raw.githubusercontent.com/creandoaldia/wafle-anamnesis/main/assets/wafle-anamnesis.mp4" controls width="100%"></video>
+
+*Explainer video (40s): the full autonomous memory pipeline with benchmarks and knowledge graph.*
 
 # wafle-anamnesis
 
@@ -151,12 +154,6 @@ wafle-anamnesis/
 
 Errors echo across sessions. The system doesn't forget. What you fixed yesterday is known today — not because a human remembered, but because the machine persisted it. The echo carries knowledge forward.
 
-
-## Demo
-
-<video src="https://raw.githubusercontent.com/creandoaldia/wafle-anamnesis/main/assets/wafle-anamnesis.mp4" controls width="100%"></video>
-
-*Watch the explainer video (40s) showing the full pipeline with benchmarks and knowledge graph.*
 
 ![Knowledge Graph](https://raw.githubusercontent.com/creandoaldia/wafle-anamnesis/main/assets/captura_anamnesis.png)
 
