@@ -8,9 +8,9 @@
  ╰──╯╰──╯  ╰─╯  ╰─╯ ╰─╯     ╰──────╯╰──────╯
 ```
 
-[![Explainer video](assets/captura_anamnesis.png)](https://github.com/creandoaldia/wafle-anamnesis/raw/main/assets/wafle-anamnesis.mp4)
+<video src="https://github.com/creandoaldia/wafle-anamnesis/releases/download/v1.0.0/wafle-anamnesis.mp4" controls width="100%" poster="assets/captura_anamnesis.png"></video>
 
-*Click the screenshot to watch the explainer video (40s) — the full autonomous memory pipeline with benchmarks and knowledge graph.*
+*Explainer video (40s): the full autonomous memory pipeline with benchmarks and knowledge graph.*
 
 # wafle-anamnesis
 
